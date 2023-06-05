@@ -116,7 +116,11 @@
 </p>
 
   ## 🔥 Streak stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SiveMdluli&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=SiveMdluli&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+</p>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <h2 align="left">:handshake: Connect with me:</h2>
