@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: **He/Him**
 
-- ⚡ Fun fact: **I Love Music** and I am Trying to Learn **Chess**
+- ⚡ Fun fact: **I Love Music**
 
 - 💬 Ask me about **Anything at all**
 
