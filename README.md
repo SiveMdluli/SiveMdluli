@@ -8,7 +8,7 @@
   
 - :innocent: Student at  [Microverse](https://www.microverse.org/)
 
-- 📫 How to reach me: [Send an Email](mdlulisive202@gmail.com)
+- 📫 How to reach me: `mdlulisive202@gmail.com`
 
 - 😄 Pronouns: **He/Him**
 
