@@ -4,7 +4,7 @@
   
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiveMdluli&label=Profile%20views&color=4E2A84&style=flat-cube" alt="Sive" /></p>
   
-  - 🌱 Learning: **Bootsrap | Sass | JavaScript**
+  - 🌱 Learning: **ReactJS | Redux | Node js |  Express and MongoDB**
   
 - :innocent: Student at  [Microverse](https://www.microverse.org/)
 
@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Anything at all**
 
-- 👯 I’m looking to collaborate on **Projects**
+- 👯 I’m looking to collaborate and contribute to **Projects**
 
   <h2></h2>
 <p align="center"><img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/multi-screen.gif" /></p>
@@ -143,4 +143,4 @@
   </a>
 </p>
 
-<p align="center"> © 2023 Sive Mdluli. All rights reserved.</p>
+<p align="center"> © 2023 Sive Mdluli | All rights reserved.</p>
